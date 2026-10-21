@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/gh-scoped-creds/commit/fe538a4bbc189ae3240301e125828984dc0abf89",
       "git:hexsha": "fe538a4bbc189ae3240301e125828984dc0abf89",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jupyterhub/gh-scoped-creds/commit/5b33c75802513a51ae46e4cdaa0c4fbd69257242",
