@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "gh-scoped-creds",
+  "versions": [
+    {
+      "commit": "fe538a4bbc189ae3240301e125828984dc0abf89",
+      "tag": "",
+      "parsed_at": "2026-10-21T22:27:22.328249+00:00"
+    }
+  ]
+}
